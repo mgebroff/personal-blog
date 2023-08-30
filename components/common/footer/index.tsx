@@ -1,6 +1,7 @@
 /***** IMPORT ***********************************************************************************/
 import Link from "next/link";
 import { navigation } from "../navbar/navigation";
+import Image from "next/image";
 
 /***** SOCIAL LINKS ******************************************************************************/
 const socialLinks = [
@@ -99,10 +100,6 @@ const Footer = () => {
         <p className="mt-8 text-center text-base text-gray-400">
           <Copyright />, All rights reserved{" "}
         </p>
-        <br />
-        <center>
-          <img src="/logo.png" alt="logo" width={65} />
-        </center>
       </div>
     </footer>
   );
