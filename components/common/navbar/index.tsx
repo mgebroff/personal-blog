@@ -1,8 +1,8 @@
 /***** IMPORT ***********************************************************************************/
 import { Popover, Transition } from "@headlessui/react";
 import Link from "next/link";
-// import Image from "next/image";
-import Image from "next/legacy/image";
+import Image from "next/image";
+//import Image from "next/legacy/image";
 import { Fragment } from "react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import { navigation } from "./navigation";
