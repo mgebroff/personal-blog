@@ -30,14 +30,14 @@ Perform the following tasks:
 4. Navigate to Data Management > Datasets. The Datasets page opens.
 5. Click the Browse tab, if not open already. The available datasets appear.
 6. Type Website in the Search box to filter the list of the datasets. The list will include AEP Demo Website Registrations and AEP Demo Website Interaction, as shown:
-   ![Adobe](http://localhost:3000/images/customer-journey-analytics-img3.PNG "Connect to the Experience Platform UI")
+   ![Adobe](/images/customer-journey-analytics-img3.PNG "Connect to the Experience Platform UI")
 7. Select the AEP Demo Website Interactions dataset. The AEP Demo Website Interactions Schema panel appears on the right.
 8. Click the link below Schema. The AEP Demo Website Interactions Schema pop up appears.
 9. Click AEP Demo Website Interactions Schema below the Schema name section in the pop up. The Schemas > AEP Demo Website Interactions Schema page opens on a separate tab.
-   ![Adobe](http://localhost:3000/images/customer-journey-analytics-img4.PNG "Connect to the Experience Platform UI")
+   ![Adobe](/images/customer-journey-analytics-img4.PNG "Connect to the Experience Platform UI")
 10. In the Structure section, expand adlsplatform<region> object schema, where <region> refers the region for which the instance is provisioned. For example, adlsplatformus. The available subobjects appear..
 11. Expand the identification sub-object. The identification object displays the strings that include crmid, ecid, and emailId, as shown:
-    ![Adobe](http://localhost:3000/images/customer-journey-analytics-img5.PNG "Connect to the Experience Platform UI")
+    ![Adobe](/images/customer-journey-analytics-img5.PNG "Connect to the Experience Platform UI")
 12. Click Schemas on the upper left to return to the Schemas page.
 13. Navigate to Data Management > Datasets. The Datasets page opens.
 14. Click the Browse tab, if not open already. The available datasets appear.
@@ -57,7 +57,7 @@ Perform the following tasks:
 27. Click AEP Demo Call Center Interactions Schema below the Schema name section in the pop up. The Schemas > AEP Demo Luma Telco Call Center Interactions Schema page opens on a separate tab.
 28. In the Structure section, expand adlsplatform<region> object schema, where <region> refers the region for which the instance is provisioned. For example, adlsplatformus. The available subobjects appear.
 29. Expand the identification sub-object. The identification object displays the strings, as shown:
-    ![Adobe](http://localhost:3000/images/customer-journey-analytics-img7.PNG "Connect to the Experience Platform UI")
+    ![Adobe](/images/customer-journey-analytics-img7.PNG "Connect to the Experience Platform UI")
 
 - Notice that the common strings in three schemas are:
   - ecid

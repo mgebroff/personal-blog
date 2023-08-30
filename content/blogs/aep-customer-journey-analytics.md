@@ -61,13 +61,13 @@ obtain cross-report-suite data.
 
 ---
 
-## ![Adobe](http://localhost:3000/images/customer-journey-analytics-img1.PNG "Customer Journey Analytics Architecture")
+![Adobe](/images/customer-journey-analytics-img1.PNG "Customer Journey Analytics Architecture")
 
 ## CJA Integration with Experience Platform
 
 ---
 
-## ![Adobe](http://localhost:3000/images/customer-journey-analytics-img2.PNG "CJA Integration with Experience Platfor")
+![Adobe](/images/customer-journey-analytics-img2.PNG "CJA Integration with Experience Platform")
 
 The data flow process from Experience Platform to CJA occurs in the following steps:
 

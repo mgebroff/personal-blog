@@ -42,7 +42,7 @@ The steps involved in creating a connection are:
 ## CJA Connection Setting Details:
 
 Connection Setting UI
-![Adobe](http://localhost:3000/images/customer-journey-analytics-img8.PNG "CJA Connections")
+![Adobe](/images/customer-journey-analytics-img8.PNG "CJA Connections")
 | Setting | Description |
 |--------------|-----------|
 | Connection name | Enter a unique name for the connection.|
@@ -108,4 +108,4 @@ Specifically, with your Connection Manager, you can:
 
 ## Connection Details Page
 
-![Adobe](http://localhost:3000/images/customer-journey-analytics-img9.PNG "Connection Details Page")
+![Adobe](/images/customer-journey-analytics-img9.PNG "Connection Details Page")
