@@ -1,4 +1,6 @@
+/***** IMPORT ***********************************************************************************/
 import Link from "next/link";
+import Image from "next/image";
 
 /***** HEADER ***********************************************************************************/
 const Header = () => {
@@ -12,10 +14,11 @@ const Header = () => {
           </span>
         </h1>
         <p className="mt-3 text-base text-gray-500 sm:mx-auto sm:mt-5 sm:max-w-xl sm:text-lg md:mt-5 md:text-xl lg:mx-0">
-          My name is Michael Mgebroff. I have 15 + years of experience in
-          digital analytics, project management, frontend, backend, optimization
-          & instrumentation solutions.
+          <br />
+          <Image width={45} height={45} src="/avatar.png" alt="logo" /> Adobe
+          Analytics Data Industry Technology and Research ...
         </p>
+
         {/*
  <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
           <div className="rounded-md shadow">
@@ -37,7 +40,6 @@ const Header = () => {
           </div>
          
         </div>
-
           */}
       </div>
     </main>

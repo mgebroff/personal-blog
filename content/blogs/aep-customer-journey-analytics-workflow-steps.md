@@ -47,7 +47,7 @@ Perform the following tasks:
 18. Click AEP Demo Websites Registrations Schema below the Schema name section in the pop up. The Schemas > AEP Demo Websites Registrations Schema page opens on a separate tab.
 19. In the Structure section, expand adlsplatform region object schema, where region refers the region for which the instance is provisioned. For example, adlsplatformus. The available subobjects appear.
 20. Expand the identification sub-object. The identification object displays the strings, as shown:
-    ![Adobe](http://localhost:3000/images/customer-journey-analytics-img6.PNG "Connect to the Experience Platform UI")
+    ![Adobe](/images/customer-journey-analytics-img6.PNG "Connect to the Experience Platform UI")
 21. Click Schemas on the upper left to return to the Schemas page.
 22. Navigate to Data Management > Datasets. The Datasets page opens.
 23. Click the Browse tab. The available datasets appear.

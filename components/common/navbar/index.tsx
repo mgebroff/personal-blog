@@ -52,11 +52,14 @@ const Navbar = () => {
               </div>
             </div>
             <div className="hidden md:ml-10 md:block md:space-x-8 md:pr-4">
+              <Link href="/" legacyBehavior>
+                <a className="text-sm font-bold ">Home</a>
+              </Link>
               {navigation.map((item) => (
                 <Link
                   key={item.name}
                   href={item.href}
-                  className="font-medium text-gray-500 hover:text-gray-900"
+                  className="text-sm font-bold hover:text-gray-900"
                   legacyBehavior
                 >
                   {item.name}
