@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "aep-customer-journey-analytics",
+    "title": "Customer Journey Analytics Powered by Experience Platform",
+    "description": "Services Powered by Experience Platform an Overview",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-customer-journey-analytics-workflow-steps",
+    "title": "Customer Journey Analytics Workflow Steps",
+    "description": "Review Experience Platform schemas and datasets",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-cja-connections",
+    "title": "Customer Journey Analytics CJA Connections",
+    "description": "Connections enable you to create a link between Platform datasets and CJA",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-application-services",
+    "title": "Implement Application Services Powered by Adobe Experience Platform",
+    "description": "Implement Application Services Powered by Adobe Experience Platform is a 2-day instructor-led (classroom or virtual) course, where you will learn about application services built on Experience Platform. You will also learn to manage customer data by using Real-Time Customer Data Platform (RTCDP), create customer journeys by using Journey Orchestration (JO), and analyze customer data by using Customer Journey Analytics (CJA).",
+    "category": "portfolios"
+  },
+  {
+    "slug": "aep-customer-journey-optimizer",
+    "title": "Adobe Journey Optimizer Create Personalized Customer Journeys Using Adobe Journey Optimizer",
+    "description": "Create Personalized Customer Journeys Using Adobe Journey Optimizer is a 2-day instructor-led (classroom or virtual) course that helps you engage with your customers effectively throughout their journey by leveraging the capabilities of Journey Optimizer. You will learn to create and publish personalized messages, create audience segments, and build and publish your customer journeys in Journey Optimizer. You will also complete a project where you will solve a business use case by building an appropriate customer journey in Journey Optimizer. Please download course details to see full target audience and list of topics.",
+    "category": "portfolios"
+  },
+  {
+    "slug": "aep-extend-data-capabilities",
+    "title": "Extend Data Capabilities of Adobe Experience Platform",
+    "description": "Extend Data Capabilities of Adobe Experience Platform is a 1-day instructor-led (classroom or virtual) course, where you will learn to author a machine learning model, create a recipe, train and score the machine learning model, and analyze Google Analytics data in Experience Platform by using Customer Journey Analytics (CJA). You will also learn how to publish the trained machine learning model and enrich the analysis of Google Analytics data in Experience Platform.",
+    "category": "portfolios"
+  },
+  {
+    "slug": "aep-segments",
+    "title": "Create and Activate Segments in Adobe Experience Platform",
+    "description": "Create and Activate Segments in Adobe Experience Platform is a 1-day instructor-led (classroom or virtual) course, where you will learn to create simple, sequential, and multi-entity segments in Experience Platform with hands-on exercises. You will also learn how to create and activate destinations to use these segments.",
+    "category": "portfolios"
+  },
+  {
+    "slug": "aep-extend-customize",
+    "title": "Extend and Customize Adobe Experience Platform for Developers",
+    "description": "Extend and Customize Adobe Experience Platform for Developers is a 1-day instructor-led (classroom or virtual) course, where you will learn to create Experience Data Model (XDM) schemas and datasets in Adobe Experience Platform. You will also learn how to load data into Platform through data source connectors, APIs, and streaming ingestion connectors with hands-on exercises. Additionally, you will learn to create segments and multi-entity segments in Platform.",
+    "category": "portfolios"
+  },
+  {
+    "slug": "advance-segmentation",
+    "title": "Advanced Analysis with Analysis Workspace",
+    "description": "Advanced Analysis with Analysis Workspace is a 2-day, instructor-led (classroom and virtual) course designed to introduce you to the advanced features in Analysis Workspace and increase your insights within the Adobe Analytics solution. You will go beyond the basics to create more complex reports that will reinforce and strengthen your decision making. Using hands-on exercises, you will learn about product enhancements, advanced segmentation, Virtual Analyst, advanced calculated metrics, attribution modeling, data storytelling and executive dashboards, and Activity Map.",
+    "category": "portfolios"
+  },
+  {
+    "slug": "aep-getting-started",
+    "title": "Getting Started with Adobe Experience Platform",
+    "description": "This is a 2-day course which offers the same content as the previous 1-day course of the same title. The duration was extended to accommodate the time required to complete the training. There are no changes in the topics being covered. Getting Started with Adobe Experience Platform is a 2-day instructor-led (classroom or virtual) course, where you will learn the basics of Adobe Experience Platform. You will learn how to navigate through the Experience Platform user interface (UI), ingest data, apply data governance, work with real-time customer profile and segments, create queries, analyze data, and create and test machine learning model recipes in Experience Platform ...",
+    "category": "portfolios"
+  }
+]
