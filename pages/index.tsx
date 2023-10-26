@@ -27,8 +27,8 @@ const Home: NextPage<Props> = ({ blogs, portfolios }) => {
         </Link>
       </h2>
       <BlogList blogs={blogs} />
-      {/*
-        <br></br>
+
+      <br></br>
       <h2 className="text-2xl font-bold tracking-tight text-gray-900">
         Adobe Certifications
         <Link href="/portfolios" legacyBehavior>
@@ -36,7 +36,6 @@ const Home: NextPage<Props> = ({ blogs, portfolios }) => {
         </Link>
       </h2>
       <PortfolioList portfolios={portfolios} />
-      */}
     </BaseLayout>
   );
 };

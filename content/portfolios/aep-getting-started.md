@@ -27,7 +27,7 @@ highlights:
   ]
 ---
 
-![Adobe](http://localhost:3000/certifications/aep-get-started-certificate.PNG "Getting Started with Adobe Experience Platform")
+![Adobe](/certifications/aep-get-started-certificate.PNG "Getting Started with Adobe Experience Platform")
 
 Adobe Experience Platform (AEP) enables organizations to create real-time centralized profiles of their customers, based on aggregated data from multiple sources. AEP builds upon the traditional functionality of a Real-time Customer Data Platform (RT-CDP) while also applying data science and machine learning to deliver consistent interactions at scale, across several orchestration layers in your marketing stack. AEP can leverage existing data sources such as behavioural, transactional, financial or operational information to enhance existing decisioning & CRM technologies to drive business outcomes.
 

@@ -1,5 +1,5 @@
 ---
-title: "Customer Journey Analytics Powered by Experience Platform"
+title: "Customer Journey Analytics CJA"
 description: Services Powered by Experience Platform an Overview
 author: Michael Mgebroff
 authorImage: https://images.unsplash.com/photo-1496354382709-25495428b2c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80

@@ -1,5 +1,5 @@
 ---
-title: Customer Journey Analytics Workflow Steps
+title: Customer Journey Analytics Workflow
 description: Review Experience Platform schemas and datasets
 author: Michael Mgebroff
 authorImage: https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80

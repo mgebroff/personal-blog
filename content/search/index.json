@@ -1,20 +1,116 @@
 [
   {
+    "slug": "create-and-configure-data-stream",
+    "title": "Create and Configure Data Stream",
+    "description": "Create a Data stream that sends customer records and event to Experience Platform",
+    "category": "blogs"
+  },
+  {
     "slug": "aep-customer-journey-analytics",
-    "title": "Customer Journey Analytics Powered by Experience Platform",
+    "title": "Customer Journey Analytics CJA",
     "description": "Services Powered by Experience Platform an Overview",
     "category": "blogs"
   },
   {
     "slug": "aep-customer-journey-analytics-workflow-steps",
-    "title": "Customer Journey Analytics Workflow Steps",
+    "title": "Customer Journey Analytics Workflow",
     "description": "Review Experience Platform schemas and datasets",
     "category": "blogs"
   },
   {
     "slug": "aep-cja-connections",
-    "title": "Customer Journey Analytics CJA Connections",
+    "title": "Customer Journey CJA Connections",
     "description": "Connections enable you to create a link between Platform datasets and CJA",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-compose-audience-by-adding-existing-audience",
+    "title": "Compose Audience by Adding an Existing Existing",
+    "description": "Compose Audience by Adding an Existing in Adobe Real - Time Customer Data.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-create-audience-from-existing-audience",
+    "title": "Create an Audience from Existing Audiences",
+    "description": "Create an Audience from Existing Audiences in Adobe Real - Time Customer Data.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-componse-audience-building-custom-rule",
+    "title": "Compose Audience by Building Rule",
+    "description": "Compose Audience by Building a Custom Rule in Adobe Real - Time Customer Data.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-configure-data-usage-policies",
+    "title": "Configure Data Usage Policies",
+    "description": "Configure Data Usage Policies in Experience Platform.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-create-aggregation-audience",
+    "title": "Create an Aggregation Audience",
+    "description": "Create an Aggregation Audience in Adobe Real - Time Customer Data.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-create-audience-bases-attributes",
+    "title": "Create an Audience Based on Attributes",
+    "description": "Create Audiences and Activate Destinations in Adobe Real - Time Customer Data.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-create-audience-bases-events",
+    "title": "Create an Audience Based on Events",
+    "description": "Create Audiences Based on Events in Adobe Real - Time Customer Data.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-create-configure-datasets",
+    "title": "Create and Configure Dataset",
+    "description": "Create and Configure Datasets for Individual Profile in Experience Platform.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-create-configure-event-datasets",
+    "title": "Create and Configure Event Dataset",
+    "description": "Create a Dataset  from  the Events XDM Schema in Experience Platform.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-create-dynamic-audience",
+    "title": "Create a Dynamic Audience",
+    "description": "Create a Dynamic Audience in Adobe Real - Time Customer Data.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-create-multi-entity-audience",
+    "title": "Create a Multi-Entity Audience",
+    "description": "Create a Multi-Entity Audience in Adobe Real - Time Customer Data.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-create-sequential-audience",
+    "title": "Create a Sequential Audience",
+    "description": "Create a Sequential Audience in Adobe Real - Time Customer Data.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-import-audience",
+    "title": "Import Audience",
+    "description": "Import Audience in Adobe Real - Time Customer Data.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-create-individual-event-xdm-schema",
+    "title": "Create Event XDM Schema",
+    "description": "Create a new XDM schema to capture the customer interactions on a website.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-create-individual-profile-xdm-schema",
+    "title": "Create Individual Profile XDM Schema",
+    "description": "Create a new XDM schema to capture the customer identity details and attributes.",
     "category": "blogs"
   },
   {
@@ -36,7 +132,7 @@
     "category": "portfolios"
   },
   {
-    "slug": "aep-segments",
+    "slug": "aep-segments copy",
     "title": "Create and Activate Segments in Adobe Experience Platform",
     "description": "Create and Activate Segments in Adobe Experience Platform is a 1-day instructor-led (classroom or virtual) course, where you will learn to create simple, sequential, and multi-entity segments in Experience Platform with hands-on exercises. You will also learn how to create and activate destinations to use these segments.",
     "category": "portfolios"

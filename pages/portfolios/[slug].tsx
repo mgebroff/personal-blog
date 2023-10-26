@@ -1,18 +1,18 @@
 /***** IMPORT ***********************************************************************************/
-import Image from "next/image"
-import { PageLayout } from "@components/layouts"
-import { Portfolio } from "@interfaces/Portfolio"
+import Image from "next/image";
+import { PageLayout } from "@components/layouts";
+import { Portfolio } from "@interfaces/Portfolio";
 import {
   getPortfolioBySlugWithMarkdown,
   getPortfolioSlugs,
-} from "@lib/portfolios"
-import { GetStaticPaths, GetStaticProps, NextPage } from "next"
-import { ParsedUrlQuery } from "querystring"
+} from "@lib/portfolios";
+import { GetStaticPaths, GetStaticProps, NextPage } from "next";
+import { ParsedUrlQuery } from "querystring";
 
 /***** PROPS TYPE *******************************************************************************/
 type Props = {
-  portfolio: Portfolio
-}
+  portfolio: Portfolio;
+};
 
 /***** PORTFOLI DETAIL *************************************************************************/
 const PortfolioDetail: NextPage<Props> = ({ portfolio }) => {
@@ -26,14 +26,12 @@ const PortfolioDetail: NextPage<Props> = ({ portfolio }) => {
             </h1>
           </div>
           <div className="mt-4 lg:row-span-3 lg:mt-0 relative">
-            {/*
-                     <Image
-                    layout="fill"
-                    className="h-56 w-full object-cover sm:h-72 md:h-96 lg:h-full lg:w-full"
-                    alt=""
-                    src={portfolio.coverImage}
-                    />
-                    */}
+            <Image
+              layout="fill"
+              className="h-56 w-full object-cover sm:h-72 md:h-96 lg:h-full lg:w-full"
+              alt=""
+              src={portfolio.coverImage}
+            />
           </div>
 
           <div className="py-10 lg:col-span-2 lg:col-start-1 lg:border-r lg:border-gray-200 lg:pt-6 lg:pb-16 lg:pr-8">
@@ -75,35 +73,35 @@ const PortfolioDetail: NextPage<Props> = ({ portfolio }) => {
         </div>
       </div>
     </PageLayout>
-  )
-}
+  );
+};
 
 /***** PARSED URL QUERY ***********************************************************************/
 interface Params extends ParsedUrlQuery {
-  slug: string
+  slug: string;
 }
 
 /***** GET STAIC PROPS *************************************************************************/
 export const getStaticProps: GetStaticProps<Props, Params> = async (
   context
 ) => {
-  const { slug } = context.params!
-  const portfolio = await getPortfolioBySlugWithMarkdown(slug)
+  const { slug } = context.params!;
+  const portfolio = await getPortfolioBySlugWithMarkdown(slug);
 
   return {
     props: { portfolio },
-  }
-}
+  };
+};
 
 /***** GET STAIC PATHS *************************************************************************/
 export const getStaticPaths: GetStaticPaths = () => {
-  const slugs = getPortfolioSlugs()
-  const paths = slugs.map((slug) => ({ params: { slug } }))
+  const slugs = getPortfolioSlugs();
+  const paths = slugs.map((slug) => ({ params: { slug } }));
 
   return {
     paths,
     fallback: false,
-  }
-}
+  };
+};
 
-export default PortfolioDetail
+export default PortfolioDetail;
