@@ -19,29 +19,29 @@ const Header = () => {
           Analytics Data Industry Technology and Research ...
         </p>
 
-        {/*
- <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
+        <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
           <div className="rounded-md shadow">
-            <Link
-              href="/portfolios"
-              className="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-base font-medium text-white hover:bg-indigo-700 md:py-4 md:px-10 md:text-lg"
-            >
-              My Adobe Certifications
+            <Link href="/blogs">
+              <span className="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-base font-medium text-white hover:bg-indigo-700 md:py-4 md:px-10 md:text-lg">
+                Adobe AEP - Research
+              </span>
             </Link>
           </div>
-       
-<div className="mt-3 sm:mt-0 sm:ml-3">
-            <Link
-              href="/experience"
-              className="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-100 px-8 py-3 text-base font-medium text-indigo-700 hover:bg-indigo-200 md:py-4 md:px-10 md:text-lg"
-            >
-              Working Experience
+
+          <div className="mt-3 sm:mt-0 sm:ml-3">
+            <Link href="https://www.mgebroff.io/#work">
+              <span className="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-100 px-8 py-3 text-base font-medium text-indigo-700 hover:bg-indigo-200 md:py-4 md:px-10 md:text-lg">
+                Adobe Working Experience
+              </span>
             </Link>
           </div>
-         
         </div>
-   */}
       </div>
+      <br />
+      Adobe Experience Platform is an industry-leading technology platform that
+      weaves all your critical customer data together in real time — not just
+      CRM or other first-party data — all of it, including behavioral,
+      transactional, financial, operational, and third-party data.
     </main>
   );
 };

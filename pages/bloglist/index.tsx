@@ -8,18 +8,11 @@ import Image from "next/image";
 const Contact: NextPage = () => {
   return (
     <PageLayout pageTitle="List View">
-      <br />
-      <Link href={`/blogs`} legacyBehavior>
-        <b>Back All Blogs</b>
-      </Link>
-      <br />
-      <br />
       <img
         src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         width={750}
       />
 
-      <br />
       <br />
       <b>AEP Schema & Dataset in Adobe Experience Platform</b>
       <br />

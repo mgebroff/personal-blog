@@ -18,7 +18,7 @@ const BlogsPage: NextPage<Props> = ({ blogs }) => {
       <h2 className="text-2xl font-bold tracking-tight text-gray-900">
         All Adobe Blogs | &nbsp;
         <Link href={`bloglist`} legacyBehavior>
-          See List view
+          List View
         </Link>
       </h2>
       <BlogList blogs={blogs} />
