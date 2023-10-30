@@ -68,86 +68,116 @@ const Contact: NextPage = () => {
             &nbsp; &nbsp; - Customer Journey CJA Connections
           </Link>
         </li>
-        <ul>
-          <br />
-          <b>Create Audiences in Adobe Real-Time Customer Data Platform</b>
-          <li>
-            <Link
-              href={`blogs/aep-create-audience-bases-attributes`}
-              legacyBehavior
-            >
-              &nbsp; &nbsp; - Create Audience Bases Attributes
-            </Link>
-          </li>
-          <li>
-            <Link
-              href={`blogs/aep-create-audience-bases-events`}
-              legacyBehavior
-            >
-              &nbsp; &nbsp; - Create Audience Bases Events
-            </Link>
-          </li>
-          <li>
-            <Link
-              href={`blogs/aep-componse-audience-building-custom-rule`}
-              legacyBehavior
-            >
-              &nbsp; &nbsp; - Componse Audience By Building Custom Rule
-            </Link>
-          </li>
-          <li>
-            <Link href={`blogs/aep-create-sequential-audience`} legacyBehavior>
-              &nbsp; &nbsp; - Create Sequential Audience
-            </Link>
-          </li>
-          <li>
-            <Link
-              href={`blogs/aep-create-multi-entity-audience`}
-              legacyBehavior
-            >
-              &nbsp; &nbsp; - Create Multi Entity Audience
-            </Link>
-          </li>
-          <li>
-            <Link href={`blogs/aep-create-aggregation-audience`} legacyBehavior>
-              &nbsp; &nbsp; - Create Aggregation Audience
-            </Link>
-          </li>
-          <li>
-            <Link href={`blogs/aep-create-dynamic-audience`} legacyBehavior>
-              &nbsp; &nbsp; - Create Dynamic Audience
-            </Link>
-          </li>
-          <li>
-            <Link href={`blogs/aep-import-audience`} legacyBehavior>
-              &nbsp; &nbsp; - Import Audience
-            </Link>
-          </li>
-          <li>
-            <Link
-              href={`blogs/aep-compose-audience-by-adding-existing-audience`}
-              legacyBehavior
-            >
-              &nbsp; &nbsp; - Compose Audience By Adding Existing Audience
-            </Link>
-          </li>
-          <li>
-            <Link
-              href={`blogs/aep-componse-audience-building-custom-rule`}
-              legacyBehavior
-            >
-              &nbsp; &nbsp; - Componse Audience Building Custom Rule
-            </Link>
-          </li>
-          <li>
-            <Link
-              href={`blogs/aep-create-audience-from-existing-audience`}
-              legacyBehavior
-            >
-              &nbsp; &nbsp; - Create Audience From Existing Audience
-            </Link>
-          </li>
-        </ul>
+      </ul>
+      <ul>
+        <br />
+        <b>Create Audiences in Adobe Real-Time Customer Data Platform</b>
+        <li>
+          <Link
+            href={`blogs/aep-create-audience-bases-attributes`}
+            legacyBehavior
+          >
+            &nbsp; &nbsp; - Create Audience Bases Attributes
+          </Link>
+        </li>
+        <li>
+          <Link href={`blogs/aep-create-audience-bases-events`} legacyBehavior>
+            &nbsp; &nbsp; - Create Audience Bases Events
+          </Link>
+        </li>
+        <li>
+          <Link
+            href={`blogs/aep-componse-audience-building-custom-rule`}
+            legacyBehavior
+          >
+            &nbsp; &nbsp; - Componse Audience By Building Custom Rule
+          </Link>
+        </li>
+        <li>
+          <Link href={`blogs/aep-create-sequential-audience`} legacyBehavior>
+            &nbsp; &nbsp; - Create Sequential Audience
+          </Link>
+        </li>
+        <li>
+          <Link href={`blogs/aep-create-multi-entity-audience`} legacyBehavior>
+            &nbsp; &nbsp; - Create Multi Entity Audience
+          </Link>
+        </li>
+        <li>
+          <Link href={`blogs/aep-create-aggregation-audience`} legacyBehavior>
+            &nbsp; &nbsp; - Create Aggregation Audience
+          </Link>
+        </li>
+        <li>
+          <Link href={`blogs/aep-create-dynamic-audience`} legacyBehavior>
+            &nbsp; &nbsp; - Create Dynamic Audience
+          </Link>
+        </li>
+        <li>
+          <Link href={`blogs/aep-import-audience`} legacyBehavior>
+            &nbsp; &nbsp; - Import Audience
+          </Link>
+        </li>
+        <li>
+          <Link
+            href={`blogs/aep-compose-audience-by-adding-existing-audience`}
+            legacyBehavior
+          >
+            &nbsp; &nbsp; - Compose Audience By Adding Existing Audience
+          </Link>
+        </li>
+        <li>
+          <Link
+            href={`blogs/aep-componse-audience-building-custom-rule`}
+            legacyBehavior
+          >
+            &nbsp; &nbsp; - Componse Audience Building Custom Rule
+          </Link>
+        </li>
+        <li>
+          <Link
+            href={`blogs/aep-create-audience-from-existing-audience`}
+            legacyBehavior
+          >
+            &nbsp; &nbsp; - Create Audience From Existing Audience
+          </Link>
+        </li>
+      </ul>
+
+      <br />
+      <b>Adobe Experience Cloud with Web SDK</b>
+      <ul>
+        <li>
+          <Link
+            href={`blogs/aep-websdk-create-configure-datastream`}
+            legacyBehavior
+          >
+            &nbsp; &nbsp; - Web SDK - Configure Data Stream
+          </Link>
+        </li>
+        <li>
+          <Link href={`blogs/aep-websdk-create-tag-property`} legacyBehavior>
+            &nbsp; &nbsp; - Web SDK - Create a Tag Property
+          </Link>
+        </li>
+        <li>
+          <Link
+            href={`blogs/aep-websdk-install-configure-extensions`}
+            legacyBehavior
+          >
+            &nbsp; &nbsp; - Web SDK - Configure Extensions
+          </Link>
+        </li>
+        <li>
+          <Link href={`blogs/aep-websdk-create-data-elements`} legacyBehavior>
+            &nbsp; &nbsp; - Web SDK - Create and Configure Data Elements
+          </Link>
+        </li>
+        <li>
+          <Link href={`blogs/aep-websdk-create-rules`} legacyBehavior>
+            &nbsp; &nbsp; - Web SDK - Create Rules in Data Collection
+          </Link>
+        </li>
       </ul>
     </PageLayout>
   );
