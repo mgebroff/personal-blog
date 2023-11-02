@@ -1,5 +1,5 @@
 ---
-title: "Web SDK - Create and Configure Data Elements"
+title: "Web SDK - Configure Data Elements"
 description: Create and Configure Data Elements for Luma Website.
 author: Michael Mgebroff
 authorImage: https://images.unsplash.com/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg?auto=format&fit=crop&q=80&w=3696&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D

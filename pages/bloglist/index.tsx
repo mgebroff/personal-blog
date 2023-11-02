@@ -48,7 +48,7 @@ const Contact: NextPage = () => {
         </li>
       </ul>
       <br />
-      <b>Customer Journey Analytics in Adobe Experience Platform</b>
+      <b>Configure Customer Journey Analytics in Adobe Experience Platform</b>
       <ul>
         <li>
           <Link href={`blogs/aep-customer-journey-analytics`} legacyBehavior>
@@ -66,6 +66,20 @@ const Contact: NextPage = () => {
         <li>
           <Link href={`blogs/aep-cja-connections`} legacyBehavior>
             &nbsp; &nbsp; - Customer Journey CJA Connections
+          </Link>
+        </li>
+      </ul>
+      <br />
+      <b>Create and Analyze Using Adobe Customer Journey Analytics</b>
+      <ul>
+        <li>
+          <Link href={`blogs/aep-cja-intro`} legacyBehavior>
+            &nbsp; &nbsp; - Customer Journey Analytics (CJA)
+          </Link>
+        </li>
+        <li>
+          <Link href={`blogs/aep-cja-calculated-metrics`} legacyBehavior>
+            &nbsp; &nbsp; - Create Calculated Metrics and Dimensions (CJA)
           </Link>
         </li>
       </ul>
@@ -176,6 +190,17 @@ const Contact: NextPage = () => {
         <li>
           <Link href={`blogs/aep-websdk-create-rules`} legacyBehavior>
             &nbsp; &nbsp; - Web SDK - Create Rules in Data Collection
+          </Link>
+        </li>
+        <li>
+          <Link href={`aep-websdk-event-forwarding`} legacyBehavior>
+            &nbsp; &nbsp; - Web SDK - Event Forwarding in Data Collection
+          </Link>
+        </li>
+        <li>
+          <Link href={`aep-websdk-build-validate-deploy`} legacyBehavior>
+            &nbsp; &nbsp; - Web SDK - Build, Validate, and Deploy in Data
+            Collection
           </Link>
         </li>
       </ul>

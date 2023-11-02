@@ -1,6 +1,6 @@
 ---
-title: "Create an Audience from Existing Audiences"
-description: Create an Audience from Existing Audiences in Adobe Real - Time Customer Data.
+title: "Create an Audience in Adobe Real - Time"
+description: Create an Audience from Existing Audiences in Real - Time Customer Data.
 author: Michael Mgebroff
 authorImage: https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 coverImage: https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D

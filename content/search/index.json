@@ -6,6 +6,18 @@
     "category": "blogs"
   },
   {
+    "slug": "aep-cja-calculated-metrics",
+    "title": "Create Calculated Metrics and Dimensions",
+    "description": "Create calculated metrics and dimensions Using Adobe Customer Journey Analytics",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-cja-intro",
+    "title": "Create and Analyze Reports in CJA",
+    "description": "Create and Analyze Reports Using Adobe Customer Journey Analytics",
+    "category": "blogs"
+  },
+  {
     "slug": "aep-customer-journey-analytics",
     "title": "Customer Journey Analytics CJA",
     "description": "Services Powered by Experience Platform an Overview",
@@ -24,6 +36,18 @@
     "category": "blogs"
   },
   {
+    "slug": "aep-websdk-build-validate-deploy",
+    "title": "Web SDK - Build, Validate, and Deploy",
+    "description": "Build, Validate, and Deploy DataCollection Library in Data Collect.",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-websdk-event-forwarding",
+    "title": "Web SDK - Event Forwarding",
+    "description": "Configure Event Forwarding in Data Collect.",
+    "category": "blogs"
+  },
+  {
     "slug": "aep-websdk-create-rules",
     "title": "Create Rules in Data Collection",
     "description": "Web SDK -  Create Rules in Data Collection for a Luma Website.",
@@ -38,7 +62,7 @@
   {
     "slug": "aep-create-audience-from-existing-audience",
     "title": "Create an Audience from Existing Audiences",
-    "description": "Create an Audience from Existing Audiences in Adobe Real - Time Customer Data.",
+    "description": "Create an Audience from Existing Audiences in Real - Time Customer Data.",
     "category": "blogs"
   },
   {
