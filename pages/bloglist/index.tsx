@@ -65,7 +65,22 @@ const Contact: NextPage = () => {
         </li>
         <li>
           <Link href={`blogs/aep-cja-connections`} legacyBehavior>
-            &nbsp; &nbsp; - Customer Journey CJA Connections
+            &nbsp; &nbsp; - Customer Journey Connections Overview
+          </Link>
+        </li>
+        <li>
+          <Link href={`blogs/aep-create-connection`} legacyBehavior>
+            &nbsp; &nbsp; - Create Customer Journey Connections
+          </Link>
+        </li>
+        <li>
+          <Link href={`blogs/aep-cja-create-dataview`} legacyBehavior>
+            &nbsp; &nbsp; - Create Customer Journey Data View
+          </Link>
+        </li>
+        <li>
+          <Link href={`blogs/aep-cja-prepare-data-for-analysis`} legacyBehavior>
+            &nbsp; &nbsp; - Prepare Data for Analysis in CJA
           </Link>
         </li>
       </ul>

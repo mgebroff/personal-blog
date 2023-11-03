@@ -23,7 +23,7 @@ const Header = () => {
           <div className="rounded-md shadow">
             <Link href="/blogs">
               <span className="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-base font-medium text-white hover:bg-indigo-700 md:py-4 md:px-10 md:text-lg">
-                Adobe AEP - Discovery
+                AEP & CJA Exploration
               </span>
             </Link>
           </div>
@@ -38,10 +38,11 @@ const Header = () => {
         </div>
       </div>
       <br />
-      Adobe Experience Platform is an industry-leading technology platform that
+      Adobe Experience Platform is an industry-leading technology platform that{" "}
+      <br />
       weaves all your critical customer data together in real time — not just
-      CRM or other first-party data — all of it, including behavioral,
-      transactional, financial, operational, and third-party data.
+      CRM <br /> or other first party data - all of it, including behavioral,
+      transactional, financial, operational and third-party data.
     </main>
   );
 };

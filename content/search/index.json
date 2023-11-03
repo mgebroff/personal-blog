@@ -1,5 +1,17 @@
 [
   {
+    "slug": "aep-cja-create-dataview",
+    "title": "Create a Data View in CJA",
+    "description": "Create a Data View Using Adobe Experience Platform",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-cja-prepare-data-for-analysis",
+    "title": "Prepare Data for Analysis in CJA",
+    "description": "Prepare data for analysis Using Adobe Customer Journey Analytics",
+    "category": "blogs"
+  },
+  {
     "slug": "create-and-configure-data-stream",
     "title": "Create and Configure Data Stream",
     "description": "Create a Data stream that sends customer records and event to Experience Platform",
@@ -7,8 +19,20 @@
   },
   {
     "slug": "aep-cja-calculated-metrics",
-    "title": "Create Calculated Metrics and Dimensions",
+    "title": "Calculated Metrics and Dimensions",
     "description": "Create calculated metrics and dimensions Using Adobe Customer Journey Analytics",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-cja-create-analysis-report",
+    "title": "Creating Analysis Reports in CJA",
+    "description": "Creating Analysis Reports in Using Adobe Customer Journey Analytics",
+    "category": "blogs"
+  },
+  {
+    "slug": "aep-create-connection",
+    "title": "Create and configure a connection",
+    "description": "Create and configure a connection Using Adobe Experience Platform",
     "category": "blogs"
   },
   {
@@ -44,7 +68,7 @@
   {
     "slug": "aep-websdk-event-forwarding",
     "title": "Web SDK - Event Forwarding",
-    "description": "Configure Event Forwarding in Data Collect.",
+    "description": "Configure Event Forwarding in Adobe Data Collect.",
     "category": "blogs"
   },
   {
@@ -55,13 +79,13 @@
   },
   {
     "slug": "aep-compose-audience-by-adding-existing-audience",
-    "title": "Compose Audience by Adding an Existing Existing",
+    "title": "Compose Audience Adobe Real Time",
     "description": "Compose Audience by Adding an Existing in Adobe Real - Time Customer Data.",
     "category": "blogs"
   },
   {
     "slug": "aep-create-audience-from-existing-audience",
-    "title": "Create an Audience from Existing Audiences",
+    "title": "Create an Audience in Adobe Real - Time",
     "description": "Create an Audience from Existing Audiences in Real - Time Customer Data.",
     "category": "blogs"
   },
@@ -73,7 +97,7 @@
   },
   {
     "slug": "aep-websdk-create-data-elements",
-    "title": "Web SDK - Create and Configure Data Elements",
+    "title": "Web SDK - Configure Data Elements",
     "description": "Create and Configure Data Elements for Luma Website.",
     "category": "blogs"
   },

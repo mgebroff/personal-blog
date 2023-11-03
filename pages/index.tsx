@@ -21,7 +21,7 @@ const Home: NextPage<Props> = ({ blogs, portfolios }) => {
   return (
     <BaseLayout>
       <h2 className="text-2xl font-bold tracking-tight text-gray-900">
-        Adobe Analytics Blogs
+        Adobe Experience Platform Exploration
         <Link href="/blogs" legacyBehavior>
           <a className="text-sm ml-1 text-indigo-600">(See All)</a>
         </Link>
@@ -30,7 +30,7 @@ const Home: NextPage<Props> = ({ blogs, portfolios }) => {
 
       <br></br>
       <h2 className="text-2xl font-bold tracking-tight text-gray-900">
-        Adobe Certifications
+        Adobe Experience Platform Certifications
         <Link href="/portfolios" legacyBehavior>
           <a className="text-sm ml-1 text-indigo-600">(See All)</a>
         </Link>
