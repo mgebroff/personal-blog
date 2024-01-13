@@ -36,10 +36,10 @@ date: "10-25-2023"
 19. Drag email under the existing rule in the rule builder. While dragging, ensure the blue line appears under the existing, as shown.
 
     Note that the AND operator appears connecting the email rule with birth date.
-    ![Adobe](/images/segments/segment9.png "Create an Audience Based on Attributes")
+    ![Adobe](/images/segments/segments9.png "Create an Audience Based on Attributes")
 
 20. Click the equals operator drop-down arrow next to email and select exists. The rule builder should now look, as shown:
-    ![Adobe](/images/segments/segment10.png "Create an Audience Based on Attributes")
+    ![Adobe](/images/segments/segments10.png "Create an Audience Based on Attributes")
 21. On the left menu, type loyalty in the search box. The fields associated with loyalty are listed. Being a custom field, the loyalty program data will be in a folder named with your tenant ID. For example, Adlsplatformapac.
 22. Click the loyaltyDetails folder. The available options are listed.
 23. Drag the level field onto the rule builder, under the email attribute you added earlier.
