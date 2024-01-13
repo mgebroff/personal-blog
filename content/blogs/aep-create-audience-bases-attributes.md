@@ -44,7 +44,7 @@ date: "10-25-2023"
 22. Click the loyaltyDetails folder. The available options are listed.
 23. Drag the level field onto the rule builder, under the email attribute you added earlier.
 24. Click the select or type options drop- down arrow and click gold from the list. The gold status is added. The segment is now defined with the customers who have an emailID, are aged 18 – 45 years,and are a part of the gold membership, as shown:
-    ![Adobe](/images/segments/segment11.png "Create an Audience Based on Attributes")
+    ![Adobe](/images/segments/segments11.png "Create an Audience Based on Attributes")
 
     Note: You can select multiple values for loyalty status. As it is referenced as an enumeration in the XDM schema, the values are available from the Select or type options drop - down menu.
 
